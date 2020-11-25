@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Python and UI/UX Design.
 - 👯 I’m looking to collaborate with IT company for an internship.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [Gmail]: thishanth41@gmail.com
+- 📫 How to reach me: thishanth41@gmail.com
 - ⚡ Fun fact: I love to learn new things and listen music.
 
