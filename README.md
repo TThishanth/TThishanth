@@ -2,7 +2,7 @@
 
 ## I'm a Student, Undergraduate and Developer!
 
-- 🔭 I’m currently working on eCommerce App development - Flutter.
+- 🔭 I’m currently working on Food Delivery App UI development - Flutter.
 - 🌱 I’m currently learning Python and UI/UX Design.
 - 👯 I’m looking to collaborate with the IT company for an internship.
 - 💬 Ask me about Anything.
